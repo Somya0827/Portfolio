@@ -1,0 +1,66 @@
+[
+  {
+    "name": "ReactJS",
+    "icon": "./assets/images/skills/icons8-react-100.png"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "./assets/images/skills/javascript.png"
+  },
+  {
+    "name": "HTML5",
+    "icon": "./assets/images/skills/icons8-html-96.png"
+  },
+  {
+    "name": "CSS3",
+    "icon": "./assets/images/skills/css.png"
+  },
+  {
+    "name": "TailwindCSS",
+    "icon": "./assets/images/skills/TailwindCSS.png"
+  },
+  {
+    "name": "NodeJS",
+    "icon": "./assets/images/skills/nodejs.png"
+  },
+  {
+    "name": "ExpressJS",
+    "icon": "./assets/images/skills/nodejs.png"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "./assets/images/skills/mongodb.png"
+  },
+  {
+    "name": "SQL & PL/SQL",
+    "icon": "./assets/images/skills/sql.png"
+  },
+  {
+    "name": "Supabase",
+    "icon": "./assets/images/skills/firebase.png"
+  },
+  {
+    "name": "Java",
+    "icon": "./assets/images/skills/java.png"
+  },
+  {
+    "name": "C++",
+    "icon": "./assets/images/skills/C++.png"
+  },
+  {
+    "name": "C",
+    "icon": "./assets/images/skills/C.png"
+  },
+  {
+    "name": "Bootstrap",
+    "icon": "./assets/images/skills/bootstrap.png"
+  },
+  {
+    "name": "Git & GitHub",
+    "icon": "./assets/images/skills/github.png"
+  },
+  {
+    "name": "Figma",
+    "icon": "./assets/images/skills/figma.png"
+  }
+]

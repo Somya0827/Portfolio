@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Career Forge (GenAI)",
+    "desc": "ATS Optimizer and Interview Generator. Upload resumes, analyze job descriptions, detect skill gaps, and generate AI-powered interview prep materials using GenAI.",
+    "image": "careerforge",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Somya0827",
+      "code": "https://github.com/Somya0827"
+    }
+  },
+  {
+    "name": "MessKhata",
+    "desc": "A live full-stack mess management web app built using React 19, Tailwind CSS, and Supabase. Features PostgreSQL RLS, custom indexing, auto-archiving, and automated WhatsApp notifications.",
+    "image": "messkhata",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Somya0827/MessKhata",
+      "code": "https://github.com/Somya0827/MessKhata"
+    }
+  },
+  {
+    "name": "Employee Management System",
+    "desc": "Role-based employee task management system using React, Node.js, Tailwind CSS, and MongoDB. Features separate Admin/Employee dashboards and local storage state persistence.",
+    "image": "ems",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Somya0827/EMS-Employee-Management-System",
+      "code": "https://github.com/Somya0827/EMS-Employee-Management-System"
+    }
+  },
+  {
+    "name": "AI Coding & Interview Platform",
+    "desc": "Full-stack AI-powered coding practice platform featuring 200+ coding problems, mock interviews, automated code evaluation with real-time AI feedback and progress tracking.",
+    "image": "ai_coding",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Somya0827/Ai-Coding-Platform",
+      "code": "https://github.com/Somya0827/Ai-Coding-Platform"
+    }
+  },
+  {
+    "name": "Time Table Management",
+    "desc": "Role-based scheduler with automated scheduling workflows built using React, Supabase, Golang, and Git/GitHub. Optimized with code-splitting and lazy loading.",
+    "image": "timetable",
+    "category": "web",
+    "links": {
+      "view": "https://github.com/Somya0827/TT-Management-System",
+      "code": "https://github.com/Somya0827/TT-Management-System"
+    }
+  }
+]
